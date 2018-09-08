@@ -1,0 +1,6 @@
+[submodule "CySat-SidePanels"]
+	path = CySat-SidePanels
+	url = git@github.com:M2I-CySat/CySat-SidePanels.git
+[submodule "CySat-Structure"]
+	path = CySat-Structure
+	url = git@github.com:M2I-CySat/CySat-Structure.git
